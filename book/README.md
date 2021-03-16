@@ -1,5 +1,7 @@
 # Megaclite
 
+## This repo is archived. Megaclite has been renamed to `zkMega` and moved to this new repo (https://github.com/patractlabs/zkmega)
+
 [Megaclite][book] is a zero-knowledge proof tool set building for the Polkadot ecology. 
 
 + [Pairing](https://patractlabs.github.io/megaclite/pairing)
